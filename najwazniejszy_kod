@@ -4,3 +4,5 @@ for i in range (10):
     print("ta cyferka jest parzysta!")
   else:
     print("ta cyferka nie jest parzysta")
+    #brawo. mega kod.
+    
